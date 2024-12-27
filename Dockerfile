@@ -4,7 +4,7 @@
 # https://github.com/dockerfile/ubuntu
 #
 
-# Pull base image.
+# Pull base .
 FROM ubuntu:14.04
 
 # Install.
